@@ -25,3 +25,12 @@ class TestNetwork:
         self.networkpage.click_frist_button()
         self.networkpage.click_3g()
 
+   def test_mobile_network_3g(self):
+
+        self.networkpage.click_more()
+
+        self.networkpage.click_network()
+
+        self.networkpage.click_frist_button()
+
+        self.networkpage.click_3g()
