@@ -1,0 +1,4 @@
+{
+  "scripts/test_network.py::TestSetting::()::test_mobile_network_2g": true,
+  "scripts/test_network.py::TestSetting::()::test_mobile_network_3g": true
+}
